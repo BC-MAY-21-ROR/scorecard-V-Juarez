@@ -7,19 +7,20 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: My Full Name # Nombre completo
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Victoriano Emilio Juárez Tacam # Nombre completo
+  tagline: Ruby on Rails Web Developer
+ # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
-  website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
-  gitlab:
+  email: victorianodev@gmail.com
+  phone: +502 57732209
+  website: https://v-juarez.github.io/victoriano/
+  linkedin: http://www.linkedin.com/in/victoriano-juarez
+  github: https://github.com/V-Juarez
+  gitlab: https://gitlab.com/V-Juarez
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@victorgame'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -32,8 +33,8 @@ sidebar:
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
-    - idiom: German
-      level: Colloquial
+    # - idiom: German
+      # level: Colloquial
 
   # Registra aquí tus soft skills. Agrega o elimina según sea necesario
   interests:
@@ -50,24 +51,45 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I'm a Web Developer, I am passionate about applying new solutions with technologies. My main work objective is to keep what I am developing readable, keeping the code clean and reusable. 
+
+    I am fascinated by areas such as robotics, IoT, Back-End, and Front-End. I am an autodidact programmer, I like to learn new things. I love nature.
+
+    Furthermore, I am a proactive, diligent person with a great disposition for teamwork. Sharing knowledge and self-learning are things that I enjoy. I am Volunteer in Technological Education
+
+    Currently, I want to become a Senior Developer at an innovative company here, in Mexico, where I can get the opportunity to be creative and solve problems people struggle with every day.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
-    details: |
+  - degree: Intensive Training Program Ruby on Rails Web Developer
+    university: BrightCoders
+    time: May 2nd 2022 - August 23rd, 2022
+    details: An intensive Ruby on Rails Web Developer program. That allows you to develop skills, strengthen talent in software development. In addition, adopting the best programming practices, working with agile methodologies, generates the experience of remote teamwork, developing projects in real, passionate environments and contributing to the community.
 
-  - degree: PhD in Computer vision and Machine learning
-    university: Heidelberg University
-    time: 2015 - 2020
-    details: |
-      Unsupervised deep learning for automatic behavior analysis
+      - Best Programming Practices
 
-        - Unsupervised learning
-        - Representaion learning
-        - Automatic Behavior Analysis
+      - Clean Code
+
+      - Databases
+
+      - TeamWork and Collaboration
+
+      - Time Management
+
+      - Problem Solving
+
+      - Communication
+
+      - Remote Work Culture
+
+      - Open-mindedness and adaptability
+
+      - Agile project management and development
+
+  - degree: Computer Systems Repair and Support Technician
+    university: Instituto Técnico de Capacitación y Productividad, INTECAP
+    time: Jan 2020 - Feb 2021
+    details: Technical assistance in installation, use, maintenance, updating, and repair of hardware and software.
 
   - degree: Internship (Master Thesis)
     university: Tobii
