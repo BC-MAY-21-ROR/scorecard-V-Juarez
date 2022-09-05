@@ -28,7 +28,7 @@ sidebar:
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
   languages:
     - idiom: English
-      level: Fluent # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
+      level: beginner # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
 
     - idiom: Spanish
       level: Native # Utiliza el resultado de tu examen oficial, o el nivel de acuerdo al modelo Dreyfus
@@ -117,18 +117,15 @@ experiences:
     time: May 2nd 2022 - August 23rd, 2022
     company: BrightCoders
     details: |
-      Intensive Training Program 
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Intensive Training Program, BrughtCoder in Ruby on Rails Web Developer. My role was Back-end developer and working remotely with my team. In the process of project development, collaborate as a project manager, code review, problem solving and clean code.
+
+        - Rails
+        - GitHub
+        - Postgresql
+        - Linux
+        - Remote work culture
+        - Team work and collaboration
+        - Communication
 
   - role: Technological Tutor
     time: 2018 - 2021
@@ -142,11 +139,11 @@ projects:
     assignments:
       - title: Nutricheck
         link: "https://nutricheck-bc.herokuapp.com/"
-        tagline: "Nutritional office patient appointment management system. Manage and schedule medical appointments. Follow-up control of patients enrolled weekly. Project in BrightCoders"
+        tagline: "Nutritional office patient appointment management system. Manage and schedule medical appointments. Follow-up control of patients enrolled weekly. Remote Group Project at Bright Coders"
       
       - title: Check Time Clock
         link: "https://reloj-checador-reilero-04.herokuapp.com/"
-        tagline: "Office employee attendance control system, record of employee work hours, date and time of work activities. The employee can enter his private number and the system will internally record the check-in time and the check-out time.A responsive Bootstrap one page theme designed to help app developers promote their mobile apps. Project in BrightCoders"  
+        tagline: "Office employee attendance control system, record of employee work hours, date and time of work activities. The employee can enter his private number and the system will internally record the check-in time and the check-out time.A responsive Bootstrap one page theme designed to help app developers promote their mobile apps. Remote Group Project at Bright Coders"  
 
       - title: Clone Netflix
         link: "https://em1l1.github.io/clone-netflix/"
