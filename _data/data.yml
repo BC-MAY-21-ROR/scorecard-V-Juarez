@@ -20,9 +20,9 @@ sidebar:
   github: https://github.com/V-Juarez
   gitlab: https://gitlab.com/V-Juarez
   bitbucket:
-  twitter: '@victorgame'
+  twitter: '@victorgame_'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: 
   goodreads: # Number-Username, e.g. 123456-alandoe
 
   # Actualiza según los idiomas y nieles que tienes. Agrega o Elimina según sea necesario.
@@ -61,10 +61,11 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Intensive Training Program Ruby on Rails Web Developer
+  - degree: Rails Web Developer
     university: BrightCoders
     time: May 2nd 2022 - August 23rd, 2022
-    details: An intensive Ruby on Rails Web Developer program. That allows you to develop skills, strengthen talent in software development. In addition, adopting the best programming practices, working with agile methodologies, generates the experience of remote teamwork, developing projects in real, passionate environments and contributing to the community.
+    details: |
+      An intensive Ruby on Rails Web Developer program. It allows developing skills, enhance talent in software development. In addition, adopting the best programming practices, working with agile methodologies, generates the experience of remote teamwork, developing projects in real, exciting environments and contributing to the community.
 
       - Best Programming Practices
 
@@ -86,32 +87,37 @@ educationcomplete:
 
       - Agile project management and development
 
+  - degree: Web Developer
+    university: Platzi
+    time: Nov 2020 - Currently
+    details: |
+      Online Education in Web Developer.
+      
+
+        - Back-End
+        - Front-End.
+
+
   - degree: Computer Systems Repair and Support Technician
     university: Instituto Técnico de Capacitación y Productividad, INTECAP
     time: Jan 2020 - Feb 2021
     details: Technical assistance in installation, use, maintenance, updating, and repair of hardware and software.
 
-  - degree: Internship (Master Thesis)
-    university: Tobii
-    time: 2014 - 2015
-    details: |
-      Master thesis topic Hand gesture classification by Deep learning using infrared camera 
 
-        - Deep learning
-        - Hand Gesture
+  - degree: Educational Administration and Environment
 
-  - degree: Bachelor Degree
-    university: Politecnico di Torino (Torino, Italy)
-    time: 2009 - 2012
+    university: Universidad de San Carlos de Guatemala
+    time: 2014 - 2016
     details: |
-      Master degree in Computer Engineering
+      Professor with mastery in the application of modern methods and techniques for the teaching of Pedagogical Research with an Environment Orientation (knowledge) and applying professional technological innovations.
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Back-End Developer
+    time: May 2nd 2022 - August 23rd, 2022
+    company: BrightCoders
     details: |
+      Intensive Training Program 
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
       Cum sociis natoque penatibus et magnis dis parturient montes,
@@ -124,39 +130,37 @@ experiences:
         - Bullet point
         - Bullet point
 
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+  - role: Technological Tutor
+    time: 2018 - 2021
+    company: Punto Crea | Guatemala
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
+      Tutor, qualified in facilitation and monitoring methodologies. Tutoring is a Co-learning exercise between participants and tutor..
 # Registra aquí los proyectos en los que has participado
 projects:
     title: Projects
     
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Nutricheck
+        link: "https://nutricheck-bc.herokuapp.com/"
+        tagline: "Nutritional office patient appointment management system. Manage and schedule medical appointments. Follow-up control of patients enrolled weekly. Project in BrightCoders"
+      
+      - title: Check Time Clock
+        link: "https://reloj-checador-reilero-04.herokuapp.com/"
+        tagline: "Office employee attendance control system, record of employee work hours, date and time of work activities. The employee can enter his private number and the system will internally record the check-in time and the check-out time.A responsive Bootstrap one page theme designed to help app developers promote their mobile apps. Project in BrightCoders"  
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Clone Netflix
+        link: "https://em1l1.github.io/clone-netflix/"
+        tagline: "Adaptable website designed to promote content, movies and series. Clone of Netflix, strengthening skills with React in the use of movie APIs, Asynchrony in JavaScript. And React components.."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Badges
+        link: "https://react-em1l1.vercel.app/"
+        tagline: "A responsive website template designed to help manage user Badges. React school project in Platzi."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Cripto-Platzi
+        link: "https://6269645cdf7e2a10bd787e00--cripto-platzi.netlify.app/"
+        tagline: "Platzi Exchange is a platform that will help you visualize all cryptocurrencies and their values in real time using the advantages of Vue.js, a framework for developing reactive and component-based websites widely used in the world of web development. Vue project in Platzi."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
         
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
@@ -169,22 +173,32 @@ skills:
 
   toolset:
     - name: Python
-      level: 20%
-
-    - name: PyTorch
       level: 40%
 
-    - name: Tensorflow
+    - name: Ruby
       level: 60%
 
-    - name: Caffe
-      level: 80%
+    - name: Rails
+      level: 60%
 
-    - name: Matlab
-      level: 100%
+    - name:  HTML
+      level: 70%
 
-    - name: C/C++
+    - name: CSS
+      level: 70%
+
+    - name: JavaScript
+      level: 50%
+    
+    - name: ReactJs
       level: 40%
+
+    - name: Docker
+      level: 50%
+
+    - name: Linux
+      level: 70%
+    
 
 # NO MODIFICAR
 footer: >
