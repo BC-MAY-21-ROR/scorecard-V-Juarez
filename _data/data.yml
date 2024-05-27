@@ -68,12 +68,12 @@ career-profile:
 educationcomplete:
   - degree: IT Technician 
     university: Universidad del Valle Guatemala Altiplano UVG
-    time: Jan 23rd 2024 - feb 25th, 2025
+    time: Jan 23rd 2024 - Feb 25th, 2025
     details: | 
       It allows developing skills, enhance talent in software development. In addition, adopting the best programming practices, working with agile methodologies.
 
       - Best Programming Practices
-     
+
       - Problem Solving
 
       - Communication
@@ -94,7 +94,7 @@ educationcomplete:
 
       - Time Management
 
-     - Problem Solving
+      - Problem Solving
 
       - Communication
 
@@ -109,7 +109,6 @@ educationcomplete:
     time: Nov 2020 - Currently
     details: |
       Online Education in Web Developer.
-      
 
         - Back-End
         - Front-End.
