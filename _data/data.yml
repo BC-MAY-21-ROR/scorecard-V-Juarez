@@ -66,6 +66,18 @@ career-profile:
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
+  - degree: IT Technician 
+    university: Universidad del Valle Guatemala Altiplano UVG
+    time: Jan 23rd 2024 - feb 25th, 2025
+    details: | 
+      It allows developing skills, enhance talent in software development. In addition, adopting the best programming practices, working with agile methodologies.
+
+      - Best Programming Practices
+     
+      - Problem Solving
+
+      - Communication
+
   - degree: Rails Web Developer
     university: BrightCoders
     time: May 2nd 2022 - August 23rd, 2022
@@ -82,7 +94,7 @@ educationcomplete:
 
       - Time Management
 
-      - Problem Solving
+     - Problem Solving
 
       - Communication
 
@@ -200,6 +212,9 @@ skills:
 
     - name: Linux
       level: 70%
+    
+    - name: C++
+      level: 50%
     
 
 # NO MODIFICAR
